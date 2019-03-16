@@ -23,4 +23,4 @@ perl ak47.pl
 7) Wait and enjoy
 
 ## Screenshot
-![alt text](https://i.ibb.co/kxmpFnM/ak47.png)
+![alt text](https://i.ibb.co/Yh9ZWWv/ak47.png)
