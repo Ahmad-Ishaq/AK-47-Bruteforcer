@@ -12,6 +12,7 @@ perl ak47.pl
 2) Java<br>
 3) Perl<br>
 4) Selenium::Remote::Driver Library<br>
+5) Gecko driver for firefox<br>
 
 ## How to use
 1) Start selenium standalone server using java
